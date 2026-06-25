@@ -1,9 +1,25 @@
-Hi, I'm Sabir Ahmed 👋  
-I’m currently learning Data Structures & Algorithms  
-and building projects like SentinelAI.
+Hi 👋, I’m Sabir Ahmed
 
-🚀 Skills: Python, DSA  
-🌱 Currently learning: Trees, Problem Solving  
-🎯 Goal: Software Development Internship
+I’m a BCA student with a strong interest in backend development and software engineering. I enjoy solving programming problems, learning new technologies, and building software that helps me improve as a developer.
+
+💻 Tech Stack
+
+* 🐍 Python
+* 🌐 Flask
+* 🗄️ SQL
+* 💾 SQLite
+* 🔧 Git & GitHub
+* ☁️ Render
+
+📚 Currently Learning
+
+* Data Structures & Algorithms
+* Backend Development
+* SQL
+* REST APIs
+
+📫 Connect With Me
+
+* GitHub: https://github.com/sabirahmed-dev
 
 
